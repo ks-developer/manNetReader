@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="shift_jis" ?>
+<list-index xmlns="http://www.aok-net.com/list-index">
+
+	<title>NetReaderⅡ マニュアル</title>
+	<linkBase />
+
+	<item>
+		<category>品質向上プログラムについて</category>
+		<link>はじめに/品質向上プログラムについて.htm</link>
+	</item>
+
+	<item>
+		<category>はじめに/ネットリーダーの動作環境</category>
+		<link>はじめに/ネットリーダーの動作環境.htm</link>
+	</item>
+	<item>
+		<category>はじめに/マニュアルの表記について</category>
+		<link>はじめに/マニュアルの表記について.htm</link>
+	</item>
+	<item>
+		<category>はじめに/マニュアルの読み上げ方について</category>
+		<link>はじめに/マニュアルの読み上げ方について.htm</link>
+	</item>
+	<item>
+		<category>はじめに/著作権について</category>
+		<link>はじめに/著作権について.htm</link>
+	</item>
+	<item>
+		<category>はじめに/墨字マニュアルと点字コマンド表の紹介</category>
+		<link>はじめに/墨字マニュアルと点字コマンド表の紹介.htm</link>
+	</item>
+
+
+	<item>
+		<category>インターネットを始める前に/インターネットへの接続</category>
+		<link>インターネットを始める前に/インターネットへの接続.htm</link>
+	</item>
+	<item>
+		<category>インターネットを始める前に/インターネット用語と本マニュアルの表記</category>
+		<link>インターネットを始める前に/インターネット用語と本マニュアルの表記.htm</link>
+	</item>
+	<item>
+		<category>インターネットを始める前に/ネットリーダーの起動と終了</category>
+		<link>インターネットを始める前に/ネットリーダーの起動と終了.htm</link>
+	</item>
+	<item>
+		<category>インターネットを始める前に/初めて起動したときのスタート画面</category>
+		<link>インターネットを始める前に/初めて起動したときのスタート画面.htm</link>
+	</item>
+
+
+	<item>
+		<category>はじめてのインターネット/前書き</category>
+		<link>はじめてのインターネット/前書き.htm</link>
+	</item>
+	<item>
+		<category>はじめてのインターネット/ページを開いてみる</category>
+		<link>はじめてのインターネット/ページを開いてみる.htm</link>
+	</item>
+	<item>
+		<category>はじめてのインターネット/開いたページの内容を確認する</category>
+		<link>はじめてのインターネット/開いたページの内容を確認する.htm</link>
+	</item>
+	<item>
+		<category>はじめてのインターネット/次に知りたいページを開く</category>
+		<link>はじめてのインターネット/次に知りたいページを開く.htm</link>
+	</item>
+
+
+	<item>
+		<category>ページを開く/アドレスを指定して開く</category>
+		<link>ページを開く/アドレスを指定して開く.htm</link>
+	</item>
+	<item>
+		<category>ページを開く/ページを探して開く</category>
+		<link>ページを開く/ページを探して開く.htm</link>
+	</item>
+	<item>
+		<category>ページを開く/お気に入りから開く</category>
+		<link>ページを開く/お気に入りから開く.htm</link>
+	</item>
+	<item>
+		<category>ページを開く/過去に開いたページを開く</category>
+		<link>ページを開く/過去に開いたページを開く.htm</link>
+	</item>
+	<item>
+		<category>ページを開く/最近開いたページを開く</category>
+		<link>ページを開く/最近開いたページを開く.htm</link>
+	</item>
+	<item>
+		<category>ページを開く/ホームを開く</category>
+		<link>ページを開く/ホームを開く.htm</link>
+	</item>
+	<item>
+		<category>ページを開く/新しいネットリーダーで開く</category>
+		<link>ページを開く/新しいネットリーダーで開く.htm</link>
+	</item>
+	<item>
+		<category>ページを開く/クイックアクセス</category>
+		<link>ページを開く/クイックアクセス.htm</link>
+	</item>
+
+
+	<item>
+		<category>ページの操作 初級/基本的なカーソル移動</category>
+		<link>ページの操作 初級/基本的なカーソル移動.htm</link>
+	</item>
+	<item>
+		<category>ページの操作 初級/リンクの操作</category>
+		<link>ページの操作 初級/リンクの操作.htm</link>
+	</item>
+	<item>
+		<category>ページの操作 初級/ページ内容の読み上げ</category>
+		<link>ページの操作 初級/ページ内容の読み上げ.htm</link>
+	</item>
+
+
+	<item>
+		<category>ページの操作 中級/ページ内の検索</category>
+		<link>ページの操作 中級/ページ内の検索.htm</link>
+	</item>
+	<item>
+		<category>ページの操作 中級/リンクの操作</category>
+		<link>ページの操作 中級/リンクの操作.htm</link>
+	</item>
+	<item>
+		<category>ページの操作 中級/埋め込み画像の表示</category>
+		<link>ページの操作 中級/埋め込み画像の表示.htm</link>
+	</item>
+	<item>
+		<category>ページの操作 中級/ページ内容の書き出し</category>
+		<link>ページの操作 中級/ページ内容の書き出し.htm</link>
+	</item>
+	<item>
+		<category>ページの操作 中級/フォームの操作</category>
+		<link>ページの操作 中級/フォームの操作.htm</link>
+	</item>
+	<item>
+		<category>ページの操作 中級/ページを最新に更新</category>
+		<link>ページの操作 中級/ページを最新に更新.htm</link>
+	</item>
+	<item>
+		<category>ページの操作 中級/受信の中止</category>
+		<link>ページの操作 中級/受信の中止.htm</link>
+	</item>
+	<item>
+		<category>ページの操作 中級/英文ページの翻訳</category>
+		<link>ページの操作 中級/英文ページの翻訳.htm</link>
+	</item>
+	<item>
+		<category>ページの操作 中級/メディアオブジェクトの操作</category>
+		<link>ページの操作 中級/メディアオブジェクトの操作.htm</link>
+	</item>
+
+
+	<item>
+		<category>ページの操作 上級/プロパティ</category>
+		<link>ページの操作 上級/プロパティ.htm</link>
+	</item>
+	<item>
+		<category>ページの操作 上級/正規表現検索</category>
+		<link>ページの操作 上級/正規表現検索.htm</link>
+	</item>
+	<item>
+		<category>ページの操作 上級/ジャンプ</category>
+		<link>ページの操作 上級/ジャンプ.htm</link>
+	</item>
+	<item>
+		<category>ページの操作 上級/ページマーク</category>
+		<link>ページの操作 上級/ページマーク.htm</link>
+	</item>
+	<item>
+		<category>ページの操作 上級/スマートナビ</category>
+		<link>ページの操作 上級/スマートナビ.htm</link>
+	</item>
+	<item>
+		<category>ページの操作 上級/操作モード</category>
+		<link>ページの操作 上級/操作モード.htm</link>
+	</item>
+	<item>
+		<category>ページの操作 上級/エンコード</category>
+		<link>ページの操作 上級/エンコード.htm</link>
+	</item>
+	<item>
+		<category>ページの操作 上級/マウスイベントとマウスクリック</category>
+		<link>ページの操作 上級/マウスイベントとマウスクリック.htm</link>
+	</item>
+	<item>
+		<category>ページの操作 上級/フラッシュとオブジェクト</category>
+		<link>ページの操作 上級/フラッシュとオブジェクト.htm</link>
+	</item>
+	<item>
+		<category>ページの操作 上級/PDFファイル</category>
+		<link>ページの操作 上級/PDFファイル.htm</link>
+	</item>
+	<item>
+		<category>ページの操作 上級/クイックビュー</category>
+		<link>ページの操作 上級/クイックビュー.htm</link>
+	</item>
+
+
+	<item>
+		<category>ページの読み上げ/読み上げ部分の識別音</category>
+		<link>ページの読み上げ/読み上げ部分の識別音.htm</link>
+	</item>
+	<item>
+		<category>ページの読み上げ/ページを読み上げる</category>
+		<link>ページの読み上げ/ページを読み上げる.htm</link>
+	</item>
+	<item>
+		<category>ページの読み上げ/ページ読み上げ中の操作キー</category>
+		<link>ページの読み上げ/ページ読み上げ中の操作キー.htm</link>
+	</item>
+
+
+	<item>
+		<category>お気に入り/前書き</category>
+		<link>お気に入り/前書き.htm</link>
+	</item>
+	<item>
+		<category>お気に入り/お気に入りに追加する</category>
+		<link>お気に入り/お気に入りに追加する.htm</link>
+	</item>
+	<item>
+		<category>お気に入り/お気に入りを整理する</category>
+		<link>お気に入り/お気に入りを整理する.htm</link>
+	</item>
+	<item>
+		<category>お気に入り/お気に入りのバックアップ</category>
+		<link>お気に入り/お気に入りのバックアップ.htm</link>
+	</item>
+
+	<item>
+		<category>画像とメディアの使い方/画像表示ビューア</category>
+		<link>画像とメディアの使い方/画像表示ビューア.htm</link>
+	</item>
+	<item>
+		<category>画像とメディアの使い方/メディア再生プレーヤー</category>
+		<link>画像とメディアの使い方/メディア再生プレイヤー.htm</link>
+	</item>
+	<item>
+		<category>画像とメディアの使い方/画像の名前を変更</category>
+		<link>画像とメディアの使い方/画像の名前を変更.htm</link>
+	</item>
+
+
+	<item>
+		<category>ユーザー補助と環境設定/画面の種類</category>
+		<link>ユーザー補助と環境設定/画面の種類.htm</link>
+	</item>
+	<item>
+		<category>ユーザー補助と環境設定/画面の拡大</category>
+		<link>ユーザー補助と環境設定/画面の拡大.htm</link>
+	</item>
+	<item>
+		<category>ユーザー補助と環境設定/閲覧オプション</category>
+		<link>ユーザー補助と環境設定/閲覧オプション.htm</link>
+	</item>
+	<item>
+		<category>ユーザー補助と環境設定/読み上げオプション</category>
+		<link>ユーザー補助と環境設定/読み上げオプション.htm</link>
+	</item>
+	<item>
+		<category>ユーザー補助と環境設定/表示オプション</category>
+		<link>ユーザー補助と環境設定/表示オプション.htm</link>
+	</item>
+	<item>
+		<category>ユーザー補助と環境設定/ホームの登録と変更</category>
+		<link>ユーザー補助と環境設定/ホームの登録と変更.htm</link>
+	</item>
+	<item>
+		<category>ユーザー補助と環境設定/インターネットオプション</category>
+		<link>ユーザー補助と環境設定/インターネットオプション.htm</link>
+	</item>
+	<item>
+		<category>ユーザー補助と環境設定/標準のブラウザにする</category>
+		<link>ユーザー補助と環境設定/標準のブラウザにする.htm</link>
+	</item>
+	<item>
+		<category>ユーザー補助と環境設定/IE互換 ハイレベルを保つ</category>
+		<link>ユーザー補助と環境設定/IE互換ハイレベルを保つ.htm</link>
+	</item>
+	<item>
+		<category>ユーザー補助と環境設定/自動通知</category>
+		<link>ユーザー補助と環境設定/自動通知.htm</link>
+	</item>
+	<item>
+		<category>ユーザー補助と環境設定/スマートフォン用のページを開く</category>
+		<link>ユーザー補助と環境設定/スマートフォン用のページを開く.htm</link>
+	</item>
+
+
+	<item>
+		<category>保守/環境のクリーンアップ</category>
+		<link>保守/環境のクリーンアップ.htm</link>
+	</item>
+	<item>
+		<category>保守/ネットリーダーを最新に更新する</category>
+		<link>保守/ネットリーダーを最新に更新する.htm</link>
+	</item>
+	<item>
+		<category>保守/品質向上プログラムに報告する</category>
+		<link>保守/品質向上プログラムに報告する.htm</link>
+	</item>
+
+
+	<item>
+		<category>アドイン</category>
+		<link>補足/アドイン.htm</link>
+	</item>
+
+	<item>
+		<category>コマンド一覧/フルキーコマンド</category>
+		<link>コマンド一覧/フルキーコマンド一覧.htm</link>
+	</item>
+	<item>
+		<category>コマンド一覧/タッチコマンド</category>
+		<link>コマンド一覧/タッチコマンド一覧.htm</link>
+	</item>
+	<item>
+		<category>コマンド一覧/点字コマンド</category>
+		<link>コマンド一覧/点字コマンド一覧.htm</link>
+	</item>
+	<item>
+		<category>コマンド一覧/５０オン順点字コマンド</category>
+		<link>コマンド一覧/５０オン順点字コマンド一覧.htm</link>
+	</item>
+
+
+	<item>
+		<category>補足/旧ネットリーダーとの違い</category>
+		<link>補足/旧ネットリーダーとの違い.htm</link>
+	</item>
+	<item>
+		<category>補足/Ｑ＆Ａ</category>
+		<link>補足/Ｑ＆Ａ.htm</link>
+	</item>
+	<item>
+		<category>補足/更新履歴</category>
+		<link>補足/更新履歴.htm</link>
+	</item>
+
+
+</list-index>

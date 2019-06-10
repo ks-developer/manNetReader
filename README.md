@@ -1,1 +1,1 @@
-# manNetReader
+# NetReaderのマニュアル
